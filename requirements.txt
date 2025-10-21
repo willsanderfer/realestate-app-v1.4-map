@@ -1,0 +1,8 @@
+streamlit>=1.26
+pandas>=2.2
+numpy>=1.26
+matplotlib>=3.8
+pydeck>=0.8
+openpyxl>=3.1
+xlsxwriter>=3.1
+openai>=1.0
