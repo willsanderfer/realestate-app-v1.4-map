@@ -1,0 +1,12 @@
+# Virtual environments and Python caches
+.venv/
+__pycache__/
+*.py[cod]
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# Jupyter notebooks and other user files
+*.ipynb
+*.xlsx
